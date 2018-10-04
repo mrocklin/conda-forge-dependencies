@@ -5,4 +5,4 @@ dependencies on github.
 
 This is a small notebook that downloads that json file and turns it into a
 Pandas dataframe.  You can run it on Binder here:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrocklin/conda-forge-dependencies/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrocklin/conda-forge-dependencies/master?filepath=conda-forge-dependencies.ipynb)
